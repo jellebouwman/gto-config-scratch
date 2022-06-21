@@ -1,2 +1,6 @@
-stages: [development, staging, production]
-types: [model, dataset]
+stages:
+  - production
+  - staging
+  - development
+types:
+  - models
