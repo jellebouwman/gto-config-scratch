@@ -1,0 +1,4 @@
+stages:
+  - production
+  - staging
+  - development
