@@ -1,3 +1,10 @@
+bert-classifier:
+  description: A dummy model that looks like a pkl file, but this one is a BERT model
+  labels:
+  - bert
+  path: models/bert-classifier.pkl
+  type: model
+  virtual: false
 churn:
   description: A dummy model that looks like a pkl file
   labels:
