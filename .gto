@@ -1,4 +1,2 @@
-stages:
-  - production
-  - staging
-  - development
+types: [model]
+stages: [development, staging, production]
