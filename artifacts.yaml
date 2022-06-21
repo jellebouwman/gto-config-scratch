@@ -1,0 +1,7 @@
+churn:
+  description: A dummy model that looks like a pkl file
+  labels:
+  - pkl
+  path: models/churn.pkl
+  type: model
+  virtual: false
